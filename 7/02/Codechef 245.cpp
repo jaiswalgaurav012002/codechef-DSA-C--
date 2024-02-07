@@ -11,7 +11,7 @@ int main() {
 	while(t--){
 	    int x,y,a;
 	    cin>>x>>y>>a;
-	    if((a>=y) && (a<x)){
+	    if((a<y) && (a>=x)){
 	        cout<<"yes"<<endl;
 	    }
 	    else{
