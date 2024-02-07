@@ -1,3 +1,6 @@
+//link to question: https://www.codechef.com/practice/course/cpp/PCPP10/problems/CPPDEBUG01
+
+
 #include <iostream>
 using namespace std;
 
